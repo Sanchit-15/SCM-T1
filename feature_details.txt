@@ -1,4 +1,2 @@
-<<<<<<< HEAD
-=======
-writing in
->>>>>>> feature-update
+both files are needed to be added and made same in both branches
+
